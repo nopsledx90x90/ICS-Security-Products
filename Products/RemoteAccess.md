@@ -27,6 +27,7 @@ This sub-category includes products that provide a platform for secure remote ac
 * [Secomea](https://www.secomea.com/)
      * [Industrial Remote Access](https://www.secomea.com/the-remote-maintenance-solution/)
 * [Siemens](https://new.siemens.com/global/en/products/automation/industrial-communication/rugged-communications/ruggedcom-portfolio/software/crossbow.html)
+* [Silverhawk](https://www.modux.co.uk/silverhawk)
 * [Sophic](https://www.iecyber.co.il)
 * [TDI Technologies](https://www.tditechnologies.com/)
 * [Tosibox](https://www.tosibox.com/)
