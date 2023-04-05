@@ -17,7 +17,6 @@
 * [MB connect line](https://mbconnectline.com/mbxlink/) - mbXLINK
 * [Nexor](https://www.nexor.com/nexor-data-diode/)
 * [Owl Cyberdefence](https://owlcyberdefense.com/)
-* [PA Consulting](https://www.paconsulting.com/services/product-design-and-engineering/data-diode/)
 * [Rovenma](https://www.rovenma.com/kindi-data-diode-devices/)
 * [Sasa](https://www.sasa-software.com/gatescanner-injector-diodes-for-network-segmentation/)
 * [Secom](https://www.secom.com.sg/unidirectional-security-gateways)
