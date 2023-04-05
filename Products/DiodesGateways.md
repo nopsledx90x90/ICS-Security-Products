@@ -10,6 +10,7 @@
 * [Cybelius](https://www.cybelius.ch/en/security/) - CyFENCE
 * [DataFlowX](https://www.dataflowx.com/)
 * [Filbico](https://www.filbico.pl/ZNO-EN.html)
+* [Forcepoint](https://www.forcepoint.com/product/data-diodes)
 * [Fox IT](https://www.fox-it.com/en/technology/datadiode/for-industrial-control-systems/)
 * [Genua](https://www.genua.de/en/solutions/data-diode-for-industrial-applications.html)
 * [Hirschmann (a Belden Brand)](https://www.belden.com/products/industrial-networking-cybersecurity/cybersecurity/data-diode)
