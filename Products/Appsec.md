@@ -1,5 +1,5 @@
 # Application Security
-List of source code scanning tools for OT software
+List of source code scanning tools
 
 * [Snyk Open Source](https://snyk.io/product/open-source-security-management/)
 * [Mend](https://www.mend.io/sca/)
