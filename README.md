@@ -2,7 +2,7 @@
 
 The purpose of this project is to list OT security products as a community resource. Please [contribute](CONTRIBUTING.md) if you have something useful to add.
 
-The lists of products are not exhaustive. It is vendor-neutral. The key requirements for a product being on a list is that ICS/OT defenders find it useful for securing their environments. See the full [inclusion criteria](Meta/Criteria.md).
+The lists of products are not exhaustive. It is vendor-neutral. The key requirements for a product being on a list is that OT defenders find it useful for securing their environments. See the full [inclusion criteria](Meta/Criteria.md).
 
 ## Product Categories
 
