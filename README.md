@@ -24,6 +24,7 @@ The lists of products are not exhaustive. It is vendor-neutral. The key requirem
 * [Physical Port Blockers](Products/PortBlockers.md)
 * [Remote Access](Products/RemoteAccess.md)
 * [SBOM](Products/SBOM.md)
+* [Destruction](Products/Destruction.md)
 
 ### Detect
 
