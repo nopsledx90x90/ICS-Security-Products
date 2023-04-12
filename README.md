@@ -31,7 +31,7 @@ The lists of products are not exhaustive. It is vendor-neutral. The key requirem
 * [Network Anomaly Detection](Products/NAD.md)
 * [Search Engines](Products/SearchEngines.md)
 * [Serial Connection Monitoring](Products/Serial.md)
-* [Testing](Products/Testing.md)
+* [Fuzz Testing](Products/Testing.md)
 * [USB Sheep-Dip Stations](Products/USBSheepDip.md)
 * [Vulnerability Scanning](Products/Vuln.md)
 * [Application Security](Products/Appsec.md)
