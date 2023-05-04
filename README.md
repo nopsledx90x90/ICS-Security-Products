@@ -12,6 +12,7 @@ The lists of products are not exhaustive. It is vendor-neutral. The key requirem
 * [Asset Discovery and Profiling](Products/AssetDiscoveryProfiling.md)
 * [Governance](Products/Governance.md)
 * [Risk Management](Products/RiskMgmt.md)
+* [Threat Intelligence] (Products/Intel.md)
 
 ### Protect
 
